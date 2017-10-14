@@ -1,4 +1,4 @@
-package collection;
+package collectionInheritence;
 
 //derived class
 class MountainBike extends Bicycle

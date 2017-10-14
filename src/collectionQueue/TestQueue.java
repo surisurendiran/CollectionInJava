@@ -1,4 +1,4 @@
-package collection;
+package collectionQueue;
 import java.util.Iterator;
 import java.util.PriorityQueue;
 class TestQueue{  

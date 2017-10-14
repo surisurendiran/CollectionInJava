@@ -1,4 +1,4 @@
-package collection;
+package collectionInheritence;
 
 //base class
 class Bicycle

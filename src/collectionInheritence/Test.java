@@ -1,6 +1,4 @@
-package collection;
-
-
+package collectionInheritence;
 
 //driver class
 public class Test

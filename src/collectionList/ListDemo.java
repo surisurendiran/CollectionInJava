@@ -1,4 +1,4 @@
-package collection;
+package collectionList;
 import java.util.*;
 public class ListDemo
 {
