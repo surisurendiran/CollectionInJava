@@ -23,6 +23,5 @@ Iterator<String> itr1 = queue.iterator();
 while(itr1.hasNext()){  
 System.out.println(itr1.next());  
 } 
-}  
-}  
+}  }  
 

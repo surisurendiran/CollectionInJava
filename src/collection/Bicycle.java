@@ -29,5 +29,4 @@ class Bicycle
      return("No of gears are "+gear
              +"\n"
              + "speed of bicycle is "+speed);
- }
-}
+ }}
