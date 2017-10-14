@@ -3,7 +3,7 @@ import java.util.Iterator;
 import java.util.PriorityQueue;
 class TestQueue{  
 public static void main(String args[]){  
-PriorityQueue<String> queue=new PriorityQueue<String>();  
+PriorityQueue<String> queue=new PriorityQueue<String>();
 queue.add("Tom");  
 queue.add("Jerry");  
 queue.add("Mickey");  

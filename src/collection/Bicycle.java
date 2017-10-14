@@ -1,8 +1,5 @@
 package collection;
 
-//Java program to illustrate the
-//concept of inheritance
-
 //base class
 class Bicycle
 {
