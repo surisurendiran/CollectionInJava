@@ -29,6 +29,5 @@ public static void main(String[] args)
 
  int size = q.size();
  System.out.println("Size of queue-" + size);
-}
-}
+}}
 

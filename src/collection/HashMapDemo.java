@@ -18,6 +18,4 @@ class HashMapDemo
            System.out.print(me.getKey()+":");
            System.out.println(me.getValue());
        }
-   }
-}
-
+   }}

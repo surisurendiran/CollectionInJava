@@ -23,7 +23,7 @@ class Bicycle
      speed += increment;
  }
   
- // toString() method to print info of Bicycle
+ 
  public String toString()
  {
      return("No of gears are "+gear

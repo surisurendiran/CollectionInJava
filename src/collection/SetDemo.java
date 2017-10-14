@@ -20,5 +20,4 @@ public class SetDemo {
          System.out.println("The last element of the set is: "+ (Integer)sortedSet.last());
       }
       catch(Exception e) {}
-   }
-}
+   }}

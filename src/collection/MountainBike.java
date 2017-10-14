@@ -25,6 +25,4 @@ class MountainBike extends Bicycle
  {
      return (super.toString()+
              "\nseat height is "+seatHeight);
- }
-
-}
+ }}

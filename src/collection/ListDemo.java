@@ -23,5 +23,4 @@ public class ListDemo
      System.out.println(l1.get(3));
      l1.set(0, 5);   						// it will replace 0th element with 5
      System.out.println(l1);  
- }
-}
+ }}
