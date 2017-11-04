@@ -22,6 +22,7 @@ public static void main(String[] args)
  System.out.println("removed element-" + removedele);
  System.out.println(q);
  
+ 
  // To view the head of queue
  
  int head = q.peek();
