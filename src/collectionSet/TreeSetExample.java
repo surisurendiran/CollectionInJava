@@ -1,7 +1,7 @@
 package collectionSet;
 
 import java.util.*;
-public class SetDemo {
+public class TreeSetExample {
 
   public static void main(String args[]) { 
       int count[] = {34, 22,10,60,30,22};

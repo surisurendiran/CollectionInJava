@@ -1,7 +1,7 @@
 package collectionQueue;
 import java.util.LinkedList;
 import java.util.Queue;
-public class QueueExample
+public class LinkedListQueueExample
 {
 public static void main(String[] args)
 {
