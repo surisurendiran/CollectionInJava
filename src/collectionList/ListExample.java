@@ -1,6 +1,6 @@
 package collectionList;
 import java.util.*;
-public class ListDemo
+public class ListExample
 {
  public static void main (String[] args)
  {
