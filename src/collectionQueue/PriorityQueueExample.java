@@ -1,3 +1,12 @@
+
+/*
+ * This class demo the PriorityQueue example. 
+ * You can read more about it at http://p3lang.com/2017/11/queue-collection-in-java link
+ * PriorityQueue follow the natural Ordering.
+ * In this example, we will see what natural ordering is and how the elements are stored based on natural ordering .
+ * 
+ * */
+
 package collectionQueue;
 import java.util.Iterator;
 import java.util.PriorityQueue;
