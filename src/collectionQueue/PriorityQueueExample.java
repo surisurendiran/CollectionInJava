@@ -2,7 +2,7 @@ package collectionQueue;
 import java.util.Iterator;
 import java.util.PriorityQueue;
 
-class TestPriorityQueueExample {  
+class PriorityQueueExample {  
 
 public static void main(String args[]){  
 
