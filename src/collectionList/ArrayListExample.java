@@ -25,11 +25,11 @@ class Employee implements Comparable <Employee>{
 class ArrayListExample {
 	public static void main(String args[]) {
 	ArrayList <Employee> a = new ArrayList<Employee>();
-	Employee e1 = new Employee("Suchita",12);
-	Employee e2 = new Employee("Manish",16);
-	Employee e3 = new Employee("Sanjay",10);
-	Employee e4 = new Employee("Charu",11);
-	Employee e5 = new Employee("Akash",12);
+	Employee e1 = new Employee("Tom",12);
+	Employee e2 = new Employee("Jerry",16);
+	Employee e3 = new Employee("Louis",10);
+	Employee e4 = new Employee("Clark",11);
+	Employee e5 = new Employee("Harris",12);
 		a.add(e1);
 		a.add(e2);
 		a.add(e3);
