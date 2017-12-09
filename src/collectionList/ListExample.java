@@ -1,3 +1,10 @@
+
+/*
+ * For quick demo of how List interface is used are are using ArrayList concrete class that extends List interface  
+ * You can read more about it at http://p3lang.com/2017/11/list-collection-in-java/ link
+ * 
+ * */
+
 package collectionList;
 import java.util.*;
 public class ListExample
