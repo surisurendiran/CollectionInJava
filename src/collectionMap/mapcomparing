@@ -1,0 +1,42 @@
+package com.map;
+
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Map.Entry;
+
+public class hssss {
+	public static void main(String[] args) {
+		Map<String, Integer> persons = new HashMap<>();
+		persons.put("John", 25);
+
+		persons.put("Nith", 15);
+
+		persons.put("Rosy1", 18);
+
+		Map<String, Integer> persons1 = new HashMap<>();
+
+		persons1.put("John", 25);
+
+		persons1.put("Nith", 15);
+
+		persons1.put("Ram", 18);
+
+		Map<String, Integer> persons3 = new HashMap<>();
+    
+		persons3.putAll(persons);
+		persons3.putAll(persons1);
+    
+		for (Entry<String, Integer> entry : persons.entrySet()) {
+			for (Entry<String, Integer> entry1 : persons1.entrySet()) {
+				int sum = 0;
+				if (entry.getKey().equals(entry1.getKey())) {
+
+					sum = entry.getValue() + entry1.getValue();
+					persons3.put(entry.getKey(), sum);
+				}
+			}
+			
+		}
+		System.out.println(persons3);  
+	}
+}
